@@ -10,8 +10,13 @@ Selain itu, GitHub memudahkan kolaborasi antar developer melalui fitur-fitur sep
 Secara garis besar, GitHub berperan penting dalam pengembangan perangkat lunak modern melalui integrasi kontrol Git dengan platform kolaborasi berbasis web yang efisien.
 
 RAHARDIAN BEKTI NUGRAHA
+
 PRODI INFORMATIKA ANGKATAN 2024
+
 TTL JAKARTA 13 FEBRUARI 2007
+
 NO HP 085716478190
+
 KELOMPOK DART
+
 IG @RHRDIANBN
